@@ -1,13 +1,13 @@
-                                                # personal_Loan_Prediction                                                                
+#personal_Loan_Prediction                                                                
                                                 
                                                 
-Introduction
-Data Set
-Project Overview
-Gatgering Data
-Exploratory Data Analysis
-Modelling
-Conclusion
+* Introduction
+* Data Set
+* Project Overview
+* Gatgering Data
+* Exploratory Data Analysis
+* Modelling
+* Conclusion
 
 
 
