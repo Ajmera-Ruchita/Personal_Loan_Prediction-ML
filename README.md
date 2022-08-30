@@ -1,4 +1,4 @@
-# personal_Loan_Prediction                                                                
+# Personal_Loan_Prediction                                                                
                                                 
                                                 
 * Introduction
