@@ -1,4 +1,4 @@
-#personal_Loan_Prediction                                                                
+# personal_Loan_Prediction                                                                
                                                 
                                                 
 * Introduction
@@ -12,7 +12,7 @@
 
 
 
-#Introduction
+# Introduction
 Your client is a banking service provider in the US.They are experiencing issues related to customers personal loan prediction.
 
 In this project we are going to predict which customer will take personal loan.
